@@ -1,0 +1,12 @@
+{
+  "name": "vuepress-form",
+  "version": "0.0.1",
+  "dependencies": {},
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "^0.12.0"
+  }
+}
