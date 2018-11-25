@@ -1,4 +1,5 @@
 module.exports = {
+    lang: 'zh-cmn-Hans',
     title: '活力农场',
     description: '活力农场，勤劳用心养殖，提供可靠质量产品，过上幸福健康生活',
     port: 3000,
@@ -9,11 +10,12 @@ module.exports = {
     themeConfig: {
         // 导航栏链接
         nav: [
-            // {text: '指南', link: '/'},
+            {text: '主页', link: '/'},
             {text: '走地鸡', link: '/chicken'},
             // {text: '游水鸭', link: '/duck'},
             // {text: '牛逼牛', link: '/ox'}
-        ],
-        sidebar: 'auto'
-    }
+        ]
+    },
+    // 插件相关
+    plugins: ['@vuepress/medium-zoom']
 }
