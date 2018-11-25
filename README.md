@@ -18,6 +18,8 @@ home: true
 
 手机号 —— 136-四二六八(4268)-8600，24h在线
 
+农场址 —— 广东省湛江吴川市王村港镇<small>[临海的小村庄](https://ditu.amap.com/place/B02F70NX0Q)</small>
+
 :::
 
 ::: tip 更多合作可能
