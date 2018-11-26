@@ -3,8 +3,14 @@ module.exports = {
     title: '活力农场',
     description: '活力农场，勤劳用心养殖，提供可靠质量产品，过上幸福健康生活',
     port: 3000,
+    locales: {
+        '/': {
+            lang: 'zh-CN'
+        }
+    },
     head: [
         ['link', {rel: 'icon', href: `/favicon.ico`}],
+        ['meta', {name: 'keywords', content: '自然干净,蓝天绿草,健康活力,原生态农场'}],
     ],
     // 主题相关配置
     themeConfig: {
@@ -17,5 +23,7 @@ module.exports = {
         ]
     },
     // 插件相关
-    plugins: ['@vuepress/medium-zoom']
+    plugins: [
+        ['@vuepress/medium-zoom', true]
+    ]
 }
