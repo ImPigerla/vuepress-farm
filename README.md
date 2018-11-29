@@ -10,7 +10,7 @@ home: true
 
 # 链接速递
 
-1. [走地鸡](/chicken)
+1. [走地鸡](/chicken.html)
 
 ::: tip 联系方式
 
