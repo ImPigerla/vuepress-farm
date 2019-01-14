@@ -18,7 +18,7 @@ module.exports = {
         nav: [
             {text: '主页', link: '/'},
             {text: '走地鸡', link: '/chicken'},
-            // {text: '游水鸭', link: '/duck'},
+            {text: '游水鸭', link: '/duck'},
             // {text: '牛逼牛', link: '/ox'}
         ]
     },

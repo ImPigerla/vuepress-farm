@@ -11,6 +11,7 @@ home: true
 # 链接速递
 
 1. [走地鸡](/chicken.html)
+1. [游水鸭](/duck.html)
 
 ::: tip 联系方式
 
